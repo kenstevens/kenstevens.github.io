@@ -19,7 +19,8 @@ body {
   margin: 0;
   font-family: -apple-system, system-ui, sans-serif;
   color: var(--darkgray);
-  background-color: var(--lightgray);
+  background-color: var(--gray); */
+  /* background-image: url("/img/OIP.jpeg");
 }
 p:last-child {
   margin-bottom: 0;
